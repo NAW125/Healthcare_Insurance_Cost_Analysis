@@ -8,7 +8,7 @@ The aim is to identify which features most strongly influence insurance charges 
 
 # Hypothesis
 
-Individuals who smoke, have a higher BMI, or are older will incur significantly higher insurance charges. Additionally, geographic region may contribute to variations in cost due to external factors such as cost of living, differing healthcare practices, or wider economic conditions.
+Individuals who smoke, have a higher BMI, or are older will incur significantly higher insurance charges. Additionally, geographic regional factors may contribute to variations in cost due to external factors such as cost of living, differing healthcare practices, and wider economic conditions.
 
 # The Dataset
 
